@@ -1,8 +1,5 @@
 # ISAGlab
-
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/b2814c8e-a616-443c-9874-67ff3a54e5be" />
-
-
+<img width="1024" height="1024" alt="logo2" src="https://github.com/user-attachments/assets/15d72d87-2da9-404e-af52-32dc2ae29eed" />
 isagLab est une application de bureau qui permet d'écrire et d'exécuter des algorithmes en pseudo-code, dans la syntaxe francophone classique enseignée dans les filières informatiques (Algorithme / Début / Fin, Variable, Pour...Faire, Tant que, Si...Alors...Sinon, etc.).
 
 L'objectif est simple : offrir aux étudiants un outil léger pour tester leurs algorithmes sans avoir à apprendre un vrai langage de programmation au préalable. On écrit l'algorithme comme on l'apprend en cours, on l'exécute, et on voit directement le résultat.
